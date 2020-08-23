@@ -1,10 +1,10 @@
 ![Profile views](https://gpvc.arturio.dev/vin725k)
 
-<h1 align="center">### Hi I am Vineet 👋</h1>
+<h1 align="center">Hi I am Vineet 👋</h1>
 <p align="center">
 I am a Data Scientist in Ericsson. I have completed my post graduation from ISB in CBA course. I have more than 5 years of experience in Data science, machine learning and statistics. I have worked in various fields like order to cash collection, financial services and Telecom. Recently, I have just started with tech-blogging!
 
-<a href=https://www.linkedin.com/in/vineet-kapoor-/ target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="vineet-kapoor" height="20" width="20" /></a>
+LinkedIn: <a href=https://www.linkedin.com/in/vineet-kapoor-/ target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="vineet-kapoor" height="20" width="20" /></a>
 </p>
 
 <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="250" align = "right">
@@ -37,9 +37,15 @@ Tableau vizzes
 - 📫 How to reach me:
 https://www.linkedin.com/in/vineet-kapoor-/
 
-- 😄 Pronouns: I, You, They
-
 - ⚡ Fun fact: working on ML project at Varkala beach in Kerala :)   
+
+<b>Tech Stack</b>
+
+<img align="left" alt="Visual Studio Code" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />  <img align="left" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />  <img align="left" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />  <img align="left" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />  <img align="left" width="40px" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png" />  <img align="left" width="40px" src="https://pytorch.org/assets/images/pytorch-logo.png" /> <img align="left" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" /> <img align="left" width="36px" 
+
+<br>
+<br/>
+<br>
 
 
 <details open>
