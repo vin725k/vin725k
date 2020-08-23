@@ -1,8 +1,12 @@
 ![Profile views](https://gpvc.arturio.dev/vin725k)
 
-### Hi I am Vineet 👋
-
+<h1 align="center">### Hi I am Vineet 👋</h1>
+<p align="center">
 I am a Data Scientist in Ericsson. I have completed my post graduation from ISB in CBA course. I have more than 5 years of experience in Data science, machine learning and statistics. I have worked in various fields like order to cash collection, financial services and Telecom. Recently, I have just started with tech-blogging!
+
+<a href=https://www.linkedin.com/in/vineet-kapoor-/ target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="vineet-kapoor" height="20" width="20" /></a>
+</p>
+
 <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="250" align = "right">
 
 - 👨🏽‍💻 Currently working, learning and growing my skillset in deep learning, competitive coding, data structures and algorithms.
