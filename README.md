@@ -29,9 +29,7 @@ https://www.linkedin.com/in/vineet-kapoor-/
 
 - 😄 Pronouns: I, You, They
 
+- ⚡ Fun fact: working on ML project at Varkala beach in Kerala :)   
 
-- ⚡ Fun fact: working on ML project on beack in Kerala :)
+<img src="https://github-readme-stats.vercel.app/api?username=vin725k&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
-
-
--->
