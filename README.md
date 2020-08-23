@@ -46,15 +46,9 @@ https://www.linkedin.com/in/vineet-kapoor-/
 <img align="left" width="100px" src="https://github.com/vin725k/vin725k/blob/master/pyspark.jpeg" /> 
 <img align="left" width="100px" src="https://github.com/vin725k/vin725k/blob/master/tableau.png" /> 
 
-<br>
-<br/>
-<br>
-
 
 <details open>
- <summary> 😇 <b>My Github Stats</b>: </summary>
-
-<br>
+😇 <b>My Github Stats</b>: 
 
 <p align = "center">
   <img src="https://github-readme-stats.vercel.app/api?username=vin725k&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
