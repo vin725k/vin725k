@@ -41,7 +41,10 @@ https://www.linkedin.com/in/vineet-kapoor-/
 
 <b>Tech Stack</b>
 
-<img align="left" alt="Visual Studio Code" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />  <img align="left" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />  <img align="left" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />  <img align="left" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />  <img align="left" width="40px" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png" />  <img align="left" width="40px" src="https://pytorch.org/assets/images/pytorch-logo.png" /> <img align="left" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" /> 
+<img align="left" alt="Visual Studio Code" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />  <img align="left" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />  <img align="left" width="100px" src="https://github.com/vin725k/vin725k/blob/master/do-big-data-analysis-in-pyspark.png" />  <img align="left" width="100px" src="https://github.com/vin725k/vin725k/blob/master/docker.png" />  <img align="left" width="100px" src="https://github.com/vin725k/vin725k/blob/master/RStudio.png" />  <img align="left" width="40px" src="https://pytorch.org/assets/images/pytorch-logo.png" /> 
+<img align="left" width="100px" src="https://github.com/vin725k/vin725k/blob/master/google-cloud-platform.png" /> 
+<img align="left" width="100px" src="https://github.com/vin725k/vin725k/blob/master/pyspark.jpeg" /> 
+<img align="left" width="100px" src="https://github.com/vin725k/vin725k/blob/master/tableau.png" /> 
 
 <br>
 <br/>
