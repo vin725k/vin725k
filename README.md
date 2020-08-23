@@ -1,3 +1,5 @@
+![Profile views](https://gpvc.arturio.dev/[YOUR_PROFILE_USERNAME])
+
 ### Hi I am Vineet 👋
 
 I am a Data Scientist in Ericsson. I have completed my post graduation from ISB in CBA course. I have more than 5 years of experience in Data science, machine learning and statistics. I have worked in various fields like order to cash collection, financial services and Telecom. Recently, I have just started with tech-blogging!
