@@ -2,10 +2,6 @@
 
 I am Vineet working as Data Scientist in Ericsson. I have completed my post graduation from ISB in CBA course. 
 
-<!--
-**vin725k/vin725k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 - 🔭 I’m currently working on 
 Developing algorithms for Non- linear processes.
 
