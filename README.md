@@ -1,9 +1,9 @@
-### Hi there 👋
+### Hi I am Vineet 👋
 
-I am Vineet Kapoor working as Data Scientist in Ericsson. I have completed my post graduation from ISB in CBA course. I have more than 5 years of experience in Data science, machine learning and statistics. I have worked in various fields like order to cash collection, financial services and Telecom.
+I am a Data Scientist in Ericsson. I have completed my post graduation from ISB in CBA course. I have more than 5 years of experience in Data science, machine learning and statistics. I have worked in various fields like order to cash collection, financial services and Telecom. Recently, I have just started with tech-blogging!
+<img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="250" align = "right">
 
-- 🔭 I’m currently working on 
-Developing algorithms for Non- linear processes.
+- 👨🏽‍💻 Currently working, learning and growing my skillset in deep learning, competitive coding, data structures and algorithms.
 
 - 🌱 I’m currently learning 
 1. Data Analysis using Pyspark
@@ -15,6 +15,10 @@ Kaggle notebooks
 Tableau vizzes
 Github repositories
 ML/AI projects
+
+- 😊 Willing to contribute in opensource development projects.
+
+- 👍 Looking for opportunities to join as an intern/full time in deep learning fields.
 
 - 🤔 I’m looking for help with guidance on Certifications for Spark, Dockers. 
 
