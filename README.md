@@ -37,6 +37,15 @@ https://www.linkedin.com/in/vineet-kapoor-/
 
 - ⚡ Fun fact: working on ML project at Varkala beach in Kerala :)   
 
-<img src="https://github-readme-stats.vercel.app/api?username=vin725k&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
+<details open>
+ <summary> 😇 <b>My Github Stats</b>: </summary>
 
+<br>
+
+<p align = "center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vin725k&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=pr2tik1&hide=css,java,html&theme=tokyonight">
+</p>
+
+</details>
