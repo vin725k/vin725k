@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Vineet working as Data Scientist in Ericsson. I have completed my post graduation from ISB in CBA course. 
+##I am Vineet Kapoor working as Data Scientist in Ericsson. I have completed my post graduation from ISB in CBA course. 
 
 - 🔭 I’m currently working on 
 Developing algorithms for Non- linear processes.
