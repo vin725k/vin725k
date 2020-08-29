@@ -44,6 +44,7 @@ https://www.linkedin.com/in/vineet-kapoor-/
 
 - ⚡ Fun fact: working on ML project at Varkala beach in Kerala :)   
 
+
 <b>Tech Stack</b>
 
 <img align="left" width="120px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />  <img align="left" width="120px" src="https://github.com/vin725k/vin725k/blob/master/do-big-data-analysis-in-pyspark.png" />  <img align="left" width="100px" src="https://github.com/vin725k/vin725k/blob/master/docker.png" />  <img align="left" width="120px" src="https://github.com/vin725k/vin725k/blob/master/RStudio.png" />  <img align="left" width="100px" src="https://pytorch.org/assets/images/pytorch-logo.png" /> 
@@ -55,6 +56,7 @@ https://www.linkedin.com/in/vineet-kapoor-/
 
 
 <details open>
+
 
 😇 <b>My Github Stats</b>: 
 
