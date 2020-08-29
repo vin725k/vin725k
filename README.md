@@ -22,9 +22,9 @@ LinkedIn: <a href=https://www.linkedin.com/in/vineet-kapoor-/ target="blank"><im
 3. Deployment of Machine learning models
 
 - 👯 I’m looking to collaborate on 
-Kaggle notebooks
-Tableau vizzes
-Github repositories
+Kaggle notebooks,
+Tableau vizzes,
+Github repositories,
 ML/AI projects
 
 - 😊 Willing to contribute in opensource development projects.
@@ -35,8 +35,8 @@ ML/AI projects
 
 
 - 💬 Ask me about:
-Data Science Algorithms
-Web Scraping
+Data Science Algorithms,
+Web Scraping,
 Tableau vizzes
 
 - 📫 How to reach me:
