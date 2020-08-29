@@ -1,4 +1,9 @@
 ![Profile views](https://gpvc.arturio.dev/vin725k)
+[![Years Badge](https://badges.pufler.dev/years/vin725k)](https://badges.pufler.dev)
+[![Repos Badge](https://badges.pufler.dev/repos/vin725k)](https://badges.pufler.dev)
+[![Updated Badge](https://badges.pufler.dev/updated/vin725k/vin725k)](https://badges.pufler.dev)
+[![Created Badge](https://badges.pufler.dev/created/vin725k/vin725k)](https://badges.pufler.dev)
+[![Commits Badge](https://badges.pufler.dev/commits/monthly/vin725k)](https://badges.pufler.dev)
 
 <h1 align="center">Hi I am Vineet 👋</h1>
 <p align="center">
@@ -24,7 +29,7 @@ ML/AI projects
 
 - 😊 Willing to contribute in opensource development projects.
 
-- 👍 Looking for opportunities to join as an intern/full time in deep learning fields.
+- 👍 Looking for opportunities to join full time in deep learning fields.
 
 - 🤔 I’m looking for help with guidance on Certifications for Spark, Dockers. 
 
